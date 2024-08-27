@@ -1,0 +1,24 @@
+.btn{
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+    background-color: #ffa100;
+}
+
+.collection{
+    display: flex;
+    gap: 0.5rem;
+    font-size: 1.4rem;
+    color: rgb(102, 102, 102);
+   
+}
+
+.reviews{
+    color: rgb(102, 102, 102);
+}
+
+#collection{
+    background: rgb(255, 249, 228);
+    font-size: 1rem;
+    padding: 0.2rem;
+}

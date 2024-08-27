@@ -1,0 +1,29 @@
+.ranker{
+    color:rgb(255, 121, 0);
+     /* font-weight: bold; */
+     /* font-size: 1.2rem; */
+}
+
+.ranker_main{
+    font-size: 1.4rem;
+}
+
+.nirf_image{
+    width:40px;
+    height: 40px;
+}
+
+
+.nirf_main{
+    display: flex;
+    gap:0.2rem;
+}
+
+
+.year{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    font-size: 1.2rem;
+}

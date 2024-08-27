@@ -1,0 +1,87 @@
+.imagger{
+    width: 50px;
+    height: 50px;
+}
+
+
+.head-container{
+    display: flex;
+    gap:1rem;
+}
+
+.college_name_block{
+      /* font-weight: bold; */
+      font-size:1.4rem;
+      color:rgb(79, 184, 221); ;
+}
+
+.college_name_block:hover{
+    text-decoration: underline;
+    color:rgb(34, 101, 125);
+    
+}
+
+
+.cutoff-main{
+    /* background-color: #fff0be; */
+    margin-top: 0.7rem;
+    padding: 0.2rem;
+    padding-right: 2rem;
+    padding-left: 0.5rem;
+     width: fit-content;
+    /* border-left: 2px solid rgb(231, 130, 13); */
+    background: rgb(255, 249, 228);
+    border-left: 2px solid rgb(255, 121, 0);
+     
+}
+
+.cutoff-actual{
+     color: rgb(51, 51, 51);
+     font-weight: 400;
+     letter-spacing: 1px;
+}
+
+.branch{
+    color: rgb(255, 121, 0);
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.logo-tail{
+    display: flex;
+    margin-top: 1.2rem;
+    justify-content: space-between;
+}
+
+
+.apply_now{
+    color: rgb(255, 121, 0);
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.apply_now_main{
+    display: flex;
+    gap:0.5rem;
+    cursor: pointer;
+}
+
+#arrow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.brouchure{
+    cursor: pointer;
+    color:rgb(79, 184, 221); 
+    font-size:1.3rem ;
+}
+
+.compare{
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

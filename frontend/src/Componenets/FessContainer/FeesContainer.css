@@ -1,0 +1,26 @@
+.rupees {
+    font-weight: bold;
+    /* font-size: 1.2rem; */
+    color: rgb(62, 174, 141);
+}
+
+
+div.fees {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+    width: 100%;
+    font-size: 1.2rem;
+   
+   
+}
+
+
+.compare_fees {
+    color: rgb(255, 121, 0);
+    display: flex;
+    gap:0.5rem;
+    
+
+
+}
